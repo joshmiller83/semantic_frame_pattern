@@ -42,7 +42,7 @@ Recommended plain-text Legend structure (placeholders only):
 ```
 Implementation: Example-Impl
 Version: 1.2.0
-License: CC-BY-4.0
+License: Apache-2.0
 Maintainers: Example Org
 Facets:
   Domain.
